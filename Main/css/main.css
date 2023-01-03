@@ -17,8 +17,7 @@ body {
     0% { transform: translate(-50%, -50%); width: var(--initialSize); opacity: 1; }
     50% { width: 0.5vmin; opacity: 1; }
     100% { width: var(--finalSize); opacity: 0; }
-  }
-   */
+  }*/
   .firework,
   .firework::before,
   .firework::after
