@@ -1,11 +1,11 @@
-# Chat-Bot-JS
-● Developed a Chat Bot System using HTML, CSS, and JavaScript.
+# InteractIQ 
+InteractIQ is an innovative project that uses HTML, CSS, and JavaScript to create a chatbot system. It has an advanced feature that makes user interactions easy by managing user queues efficiently.
 
-● Added feature that helps in smooth interaction with the user if they have any queue. ⭐
+One of the unique aspects of InteractIQ is that it has personalized responses created only through JavaScript, eliminating the need for external APIs. This approach provides prompt and customized responses that foster a deeper connection with users, enhancing their overall engagement and satisfaction.
 
-● Added self-made response with JavaScript without any API to build a personal connection with the user. 😊
+InteractIQ aims to redefine the conventional chatbot experience through user-centric design and meticulous development. The platform is functional and remarkably personal and engaging, providing a chatbot experience that surpasses expectations.
 
-## Here are some glimpse of my project :) 
+## Here are some glimpses of my project :) 
 
 <img width="275" alt="Screenshot 2022-06-29 144444" src="https://user-images.githubusercontent.com/78341083/176400353-2df0d5e4-f99d-45a6-a11c-863b95dfe6f3.png">
 <img width="265" alt="Screenshot 2022-06-29 144523" src="https://user-images.githubusercontent.com/78341083/176400361-7962687b-64cf-4cd4-885f-826216f17824.png">
